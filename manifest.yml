@@ -5,5 +5,3 @@ applications:
   name: chainToolingNode
   host: chainToolingNode
   disk_quota: 1024M
-  services:
-  - availability-monitoring-auto
